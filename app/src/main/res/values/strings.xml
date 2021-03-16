@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Defense Commander</string>
+    <string name="background_sound">background</string>
+    <string name="top_players">Top Players</string>
+    <string name="exit">Exit</string>
+    <string name="scorecard_title">#\t\t\tInit\t\t\tLevel\t\t\tScore\t\t\tDate/Time</string>
+    <string name="jdbc_driver">com.mysql.jdbc.Driver</string>
+    <string name="db_url">jdbc:mysql://christopherhield.com:3306/chri5558_missile_defense</string>
+    <string name="db_username">chri5558_student</string>
+    <string name="db_password">ABC.123</string>
+    <string name="level">Level %d</string>
+    <string name="left_base">Left Base</string>
+    <string name="center_base">Center Base</string>
+    <string name="game_over">Game Over</string>
+    <string name="_0">0</string>
+    <string name="right_base">Right Base</string>
+    <string name="textview">TextView</string>
+    <string name="splash_title">Splash title</string>
+    <string name="splash_background">Splash Background</string>
+    <string name="scores">Scores</string>
+</resources>
